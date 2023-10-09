@@ -35,6 +35,7 @@ header {
 
 .ttl {
     margin-bottom: 3rem;
+    font-size: 2rem;
     font-family: "M PLUS Rounded 1c";
     text-align: center;
 }
@@ -71,7 +72,7 @@ div.flex {
     margin: 0;
     background-color: var(--main-color);
     color: var(--second-color);
-    font-size: 1.2rem;
+    font-size: 1.5rem;
     padding: 0.5rem;
     text-align: center;
 }
